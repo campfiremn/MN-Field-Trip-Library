@@ -1,7 +1,15 @@
 /* Menu */
+#top #header .avia_mega_div > .sub-menu {
+	padding:10px 15px;
+}
+
+#top #header .avia_mega_div > .sub-menu > li {
+	padding-top:0;
+}
+
 #top #header .mega_menu_title a {
 	font-size:12px;
-	line-height:1em;
+	line-height:1.1em;
 	color:#797979;
 }
 
