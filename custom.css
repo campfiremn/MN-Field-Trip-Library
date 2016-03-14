@@ -3,8 +3,8 @@
 	padding:10px 15px;
 }
 
-#top #header .avia_mega_div > .sub-menu > li {
-	padding-top:0;
+#top #header .avia_mega_div > .sub-menu.avia_mega_hr {
+	padding-top:10px;
 }
 
 #top #header .mega_menu_title a {
